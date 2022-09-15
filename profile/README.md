@@ -1,5 +1,7 @@
 ## DevOps Tunis
 
+![Logo of DevOps Tunis](https://avatars.githubusercontent.com/u/113564801?s=400&u=07e91170e51ecb9fd0943ed17df02e2b40b0e4f0&v=4)
+
 This Organization is used to document your journey on getting a better foundational knowledge of "DevOps".
 
 This project started on the 15 sep 2022.
