@@ -10,4 +10,4 @@ As we are now into 2023 you can see we have continued the effort and the learnin
 
 The goal is to take this cours, 1 hour each a day, to tackle over 13 areas of "DevOps" to a foundational knowledge.
 
-This will not cover all things "DevOps" but it will cover the areas that will benefit your learning and understanding overall. 
+This will **not cover all things** "DevOps" but it will cover the areas that will benefit your learning and understanding overall. 
